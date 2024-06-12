@@ -1,5 +1,5 @@
 # IA-Labs
-💻 Laboratorios
+💻 Laboratorios de IA
 ## Curso
 Inteligencia Artificial
 ## Tecnologías
