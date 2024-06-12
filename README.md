@@ -1,6 +1,4 @@
 # IA-Labs
-💻 Laboratorios de IA
+💻 Laboratorio 3 - Problemas con experimentos aleatorios
 ## Curso
 Inteligencia Artificial
-## Tecnologías
-- Python
